@@ -1,4 +1,4 @@
-# angular2 using webpack
+# angular2 with NgModule
 Development of an Angular2 project having Angular module using Webpack and Webpack-dev-server with angular 2.4.3
 
 #Prerequisites
